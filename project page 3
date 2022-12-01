@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<h1>Lorem Ipsum Dolar</h1> 
+  <p></p>
+  <h6>Alkfeafkn fasijfkafm fajfsjfd sdfihjdf ahfsjdjshd akjsdhfjshfj afjkshfjkdsjfnf jdhfkfhjdshf kjdhfkjhdjfh jshdksfhj ahkfjs akjdfh akdjfhd jdfhksajdhf jfhkahfd sa </h6>
+<p></p>
+  <h2>Lorem Ipsum Dolar</h2>
+  <p></p>
+  <h5>kjhfsdjflasjfkmdk ksdjhflsakjf sjdhfks sfakshflkds fjsahfkdf jdshfakh dsjfakhfjd fkajdhfkjdhf akhfjdhfjhkda fkasjfkjdhfj djfkhak dfjsadhfj fajdshf ajshfdjd fakjhfdj akjshfdj ajhfjdhf jahf</h5>
+<img src="green-pineapple-fruit-with-brown-framed-sunglasses-beside-1161547.jpg">
+
+  <img src="cooked-pasta-on-brown-wooden-bowl-803963.jpg"class="image2">
+
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    background: linear-gradient(to bottom, black 50%, #4C4E52 50%);
+    <div class="flex-container">
+    </div>
+    
+    
+  }
+  h1{
+   padding: 20px;
+      margin: 20 px;
+      text-align: center;
+      color: white;
+      font-family:'Lobster'cyreal;
+      height: auto;
+    float: left;
+    text-align: center;
+  }
+    h2{
+  padding: 20px;
+      margin: 20 px;
+      text-align: center;
+      color: white;
+      font-family:'Lobster'cyreal;
+      height: auto;
+    float: right;
+    text-align: center;
+    }
+  
+    h5{
+       padding: 20px;
+      margin: 20 px;
+      text-align: center;
+      color: white;
+      font-family:'Lobster'cyreal;
+      height: auto;
+    float: right;
+    text-align: center;
+    }
+  h6{
+    padding: 20px;
+      margin: 20 px;
+      text-align: center;
+      color: white;
+      font-family:'Lobster'cyreal;
+      height: auto;
+    float: left;
+    text-align: center;
+  }
+  img{
+    float: right
+  }
+  
+  image2{
+     width: 100%;
+              height: auto;
+              opacity: 0.6;
+              position: absolute;
+              bottom: 10px;
+              left: 19px;
+              font-size: 13px;
+  }
+</body>
+
+
+  
+
+</html>

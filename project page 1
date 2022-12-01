@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head> 
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+rightnav{
+  padding: 20px;
+    margin: 20 px;
+    text-align: center;
+    color: white;
+    font-family:'Lobster'cyreal;
+    height: auto;
+  float: right;
+}
+
+left nav{
+  padding: 20px;
+    margin: 20 px;
+    text-align: center;
+    color: white;
+    font-family:'Lobster'cyreal;
+    height: auto;
+    float: left;
+  
+}
+h1 {
+    padding: 20px;
+    margin: 20 px;
+    text-align: center;
+    color: white;
+    font-family:'Lobster'cyreal;
+    height: auto;
+}
+ h2 {
+    padding: 20px;
+    margin: 20 px;
+    text-align: center;
+    color: white;
+    font-family:'Lobster'cyreal;
+    height: auto;
+   border-top: white;
+ }
+
+body{
+  background-image: https://github.com/avahoddy/Nugget-slays-5/blob/main/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg;;
+}
+  
+  <meta charse ="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="leftnav">
+  <a href"Freshest">Freshest</a>
+</div>
+  <div class="rightnav">
+  <a href"Home">Home</a>
+  
+  <a href"Menu">Menu</a>
+  <a href"contact">Contact</a>
+  
+</div>
+  <hr>
+<h1>FRESHEST</h1>
+<p></p>
+<hr>
+  <h2>Clean, Healthy, Always Fresh Foods</h2>
+
+</body>
+</html>
+</body>
+
+</html>
